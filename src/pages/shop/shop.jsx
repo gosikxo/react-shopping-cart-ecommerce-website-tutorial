@@ -7,7 +7,7 @@ const Shop = () => {
                 <h1> The Shop </h1>
             </div>
             <div className='products'>
-
+                
             </div>
         </div>
     )
