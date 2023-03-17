@@ -20,6 +20,11 @@ export const Cart = () => {
                     }
                 })}
             </div>
+            <div className='checkout'>
+                <p>Subtotal: $</p>
+                <button>Contiune Shopping</button>
+                <button>Checkout</button>
+            </div>
         </div>
     )
 }
